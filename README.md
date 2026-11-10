@@ -1,9 +1,9 @@
- <!DOCTYPE html>
+
 <html lang="vi">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Góc học tập của Thanh Tuyết - 12a2</title>
+    <title>Góc học tập của Thanh Tuyền 12a2</title>
     <style>
         * { box-sizing: border-box; margin: 0; padding: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
         body { background-color: #f4f6fa; color: #1e293b; padding-bottom: 80px; }
@@ -30,7 +30,7 @@
     <div class="hero">
         <div class="hero-top">
             <span>✨ MY STUDY SPACE</span>
-            <span>Thanh Tuyết - 12a2</span>
+            <span>Thanh Tuyền - 12a2</span>
         </div>
         <h1>Góc học tập của mình</h1>
         <p>Học từng chút mỗi ngày, tiến bộ từng bước một.</p>
